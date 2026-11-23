@@ -1,0 +1,4 @@
+interface:
+  display_name: "实习与求职定位初评"
+  short_description: "支持学生自查和导师首访准备，梳理经历依据、可探索方向、待核实事项和下一步"
+  default_prompt: "用 $resume-intake-review，根据我的身份和现有学生材料，先做实习与求职定位初评，再按本次需求推进。"
